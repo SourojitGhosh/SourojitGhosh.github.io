@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Sourojit Ghosh"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD Student, Human-Centered Design and Engineering, University of Washington, Seattle"
   location         : "Seattle, WA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    : "https://scholar.google.com/citations?user=fNxrh48AAAAJ&hl=en&authuser=2"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,16 +94,16 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "https://www.facebook.com/sourojit.ghosh.3"
+  facebook         : "sourojit.ghosh.3"
   foursquare       :
-  github           : "academicpages"
+  github           : "SourojitGhosh"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/sourojit_ghosh/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
