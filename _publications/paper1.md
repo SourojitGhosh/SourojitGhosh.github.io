@@ -1,7 +1,7 @@
 ---
 title: "Patterns of Patient and Caregiver Mutual Support Connections in an Online Health Community"
 collection: files
-permalink: /paper1.pdf
+permalink: /files/paper1.pdf
 excerpt: 'Patterns of Patient and Caregiver Mutual Support Connections in an Online Health Community'
 date: 2020-10-19
 venue: 'CSCW'
