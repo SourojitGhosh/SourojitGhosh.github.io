@@ -17,15 +17,11 @@ Education
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Levonian, Zachary, Marco Dow, Drew Erikson, Sourojit Ghosh, Hannah Miller Hillberg, Saumik Narayanan, Loren Terveen, and Svetlana Yarosh. "Patterns of Patient and Caregiver Mutual Support Connections in an Online Health Community." arXiv preprint arXiv:2007.16172 (2020).
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+  <> and other unheard utterances in the Writing Center, International Writing Centers Assosciation Conference, 2019 
   
   
 Leadership
