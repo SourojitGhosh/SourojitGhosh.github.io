@@ -31,3 +31,4 @@ Talks
 Leadership
 ======
 * PhD Representative, HCDE Chair's Student Advisory Board (2020-present)
+* Co-Champion, International HCDE Affinity Group (2020-present) 
