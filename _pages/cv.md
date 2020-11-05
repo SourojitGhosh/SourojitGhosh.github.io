@@ -10,8 +10,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science with a Minor in Creative Writing, University of Minnesota, Twin Cities, 2020
 * Ph.D in Human-Centered Design and Engineering, University of Washington, Seattle, 2025 (expected)
+* B.S. in Computer Science with a Minor in Creative Writing, University of Minnesota, Twin Cities, 2020
   
 
 Publications
