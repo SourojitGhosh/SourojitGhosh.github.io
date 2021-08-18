@@ -187,10 +187,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-  my Name:
-    output: true
-    permalink: /:collection/:path/
-  
 
 
 # Defaults
