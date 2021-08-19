@@ -11,7 +11,7 @@ redirect_from:
 
 <br/>
 
-<div align="justify"> My first name is pronounced as Show-row-jeet, and my last name is pronounced as G-oh-sh. </div>
+<div align="justify"> My first name is pronounced as <strong>Show-row-jeet</strong>, and my last name is pronounced as <strong>G-oh-sh</strong>. </div>
 
 <br/>
 
