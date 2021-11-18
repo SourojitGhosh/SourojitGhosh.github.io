@@ -1,5 +1,5 @@
 ---
-title: "&ltCreative Title&lt and other unheard utterances in the Writing Center"
+title: "'Creative Title' and other unheard utterances in the Writing Center"
 collection: talks
 type: "Poster Presentation"
 venue: "International Writing Centers Assosciation Conference, 2019"
