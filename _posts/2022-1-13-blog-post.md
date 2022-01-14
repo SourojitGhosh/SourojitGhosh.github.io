@@ -1,0 +1,21 @@
+---
+title: 'Human-Centered Data Science: What is it, and why is it the way forward?'
+date: 2022-1-13
+permalink: /https://sourojitg.medium.com/human-centered-data-science-what-is-it-and-why-is-it-the-way-forward-e44e749fe4c9
+tags:
+  - Human Computer Interaction
+  - Human Centered Data Science
+  - Data Science
+---
+<figure>
+  <img src = "https://miro.medium.com/max/1400/1*HYeKiM-rb9nmmOAYfWg59w.png" class="center">
+  <figcaption>Image by <a href = "https://unsplash.com/@theshubhamdhage">Shubham Dhage</a> on <a href = "https://unsplash.com/">Unsplash</a>, modified by author</figcaption>
+</figure>
+<br>
+<p>Data Science has been <a href="https://www.liebertpub.com/doi/pdfplus/10.1089/big.2013.1508">defined</a> as “ a set of fundamental principles that support and guide the principled extraction of information and knowledge from data.” It is a practice of combining several fields, such as statistics, mathematics, computer science, information science, to examine data sets (often, large data sets) for knowledge production. Everywhere we look around us, data science is silently operating — on our phones, in our classrooms and workplaces, and everywhere else.</p>
+<p>Data Science is concerned with the aggregation and interpretation of datasets. Consider, for example, your entire history of tweets, or Facebook posts. An algorithm can easily be designed to scrape (i.e. collect) those tweets and all the associated metadata, such as timestamps, location, numbers of likes and retweets, etc. Now imagine this information being collected for everyone you know, and everyone they know. Millions of data points about all of their tweets, collected and condensed into one large database.</p>
+<p>But what of the contents in those tweets? Sure, the algorithm will collect their character/word counts and maybe, if some more sophisticated metrics are applied, even measure things like affect (i.e. nature of emotional expression) or language proficiency, among other things. But what do these algorithms know of the individual, the real you, that you poured out into these tweets? Will they <em>truly</em> understand your 16-part tweet gushing about Taylor Swift’s latest album? Will they know <em>exactly</em> how hard you cried at the end of Supernatural? Will they understand your very niche interpretation of Loss? Will they understand why you keyboard-smashed “AGUEROOOWRIIRIBVHXAEAOC” on May 13 2012? Will they? Can they?</p>
+<p>Human-Centered Data Science attempts, through a combination of qualitative and quantitative metrics, to <a href="https://dl.acm.org/doi/abs/10.1145/2818052.2855518">honor</a> the “compelling and inspiring stories of individuals in the sea of aggregated data at scale.” The interdisciplinary field attempts to incorporate and contextualize the often-invisible but very real people creating data points, as it attempts to give every datum a voice to tell its own story.</p>
+<p>A part of this process is to acknowledge some sense of uncertainty, and subjective interpretations of meaning and context. But Human-Centered Data Science is okay with this. As Marcia Bates <a href="https://www.sciencedirect.com/science/article/pii/0306457390901039">writes</a>, “If we use, rather than ignore, the special traits of humans in the design of human-computer interfaces for information systems, we may find our abilities enhanced in unpredictable and creative ways.” Human-Centered Data Science is about embracing this unpredictability, and truly letting the data take researchers on a journey.</p>
+<p>The Human-Centered Data Science process also considers the ethics, potential biases and harms that can occur from the process of aggregating and operating on large sets of human-generated data. Such considerations are important and essential to the research process, now more than ever.</p>
+<p>I therefore submit to you that the way forward in Data Science is a Human-Centered one, with the view of adequately respecting the humans underneath each cell in those large spreadsheets. I leave you with the invitation to check out the <a href="https://mitpress.mit.edu/books/human-centered-data-science">upcoming book on Human-Centered Data Science</a> by the founders in the field, and hope that you will consider incorporating such methods into your practice.</p>
