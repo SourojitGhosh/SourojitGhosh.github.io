@@ -1,5 +1,5 @@
 ---
-title: "“Fanfiction communities as informal learning spaces"
+title: "Fanfiction communities as informal learning spaces"
 collection: talks
 type: "Guest Lecture: HCDE 419"
 venue: "Human-Centered Design and Engingeering"
