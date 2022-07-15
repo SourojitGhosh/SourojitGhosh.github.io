@@ -37,6 +37,7 @@ Teaching
 
 Leadership
 ======
+* PhD Representative, HCDE Diversity, Equity and Inclusion Committeee (2022 - present)
 * PhD Student Representative, HCDE Graduate Students Assosciation (2020 - present) 
 * PhD Representative, HCDE Chair's Student Advisory Board (2020 - present)
 * Co-Champion, International HCDE Affinity Group (2020 - 2021) 
