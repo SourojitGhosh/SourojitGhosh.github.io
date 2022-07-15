@@ -11,6 +11,7 @@ redirect_from:
 Education
 ======
 * Ph.D in Human-Centered Design and Engineering, University of Washington, Seattle, 2025 (expected)
+* M.S. in Human-Centered Design and Engineering, University of Washington, Seattle, 2022
 * B.S. in Computer Science with a Minor in Creative Writing, University of Minnesota, Twin Cities, 2020
   
 
