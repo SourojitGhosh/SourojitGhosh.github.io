@@ -7,4 +7,7 @@ date: 2022-10-11
 location: "Atlanta, GA"
 ---
 
-Video coming soon!
+[Download white paper here](https://sourojitghosh.github.io/files/1071181322661116.pdf)
+
+[View Presentation here](https://docs.google.com/presentation/d/1sfbVaxfIBaQBFEwjm6faX-qT-mbX_S3kxE_mI79QwbI/edit?usp=sharing)
+
