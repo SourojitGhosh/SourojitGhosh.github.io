@@ -7,7 +7,8 @@ date: 2022-10-11
 location: "Atlanta, GA"
 ---
 
-[Download white paper here](https://sourojitghosh.github.io/files/1071181322661116.pdf)
+[Download proposal here](https://sourojitghosh.github.io/files/1071181322661026.pdf)
 
-[View Presentation here](https://docs.google.com/presentation/d/1sfbVaxfIBaQBFEwjm6faX-qT-mbX_S3kxE_mI79QwbI/edit?usp=sharing)
+[View Presentation here](https://docs.google.com/presentation/d/1CNu7VPczpDGLCnBZoixhO7IS2uuy6rRP0x8FrJoPE9g/edit?usp=sharing)
 
+To cite proposal: Chiou, E. K., Holden, R. J., Ghosh, S., Flores, Y., & Roscoe, R. D. (2022). Recruitment, Admissions, Hiring, Retention, and Promotion: Mechanisms of Diversity, Equity, Inclusion (DEI) and Belonging in Higher Education. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 66(1), 135–138. https://doi.org/10.1177/1071181322661026
