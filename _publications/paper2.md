@@ -6,4 +6,4 @@ date: 2022-04-23
 venue: 'CHI'
 
 ---
-[View paper here](https://sites.google.com/view/hcds-workshop-chi2022/home/position-papers?authuser=0)
+[View paper here](https://drive.google.com/file/d/17XKySYg-cR0clxC1E4YNkSWEX-2-5OWQ/view)
