@@ -3,7 +3,7 @@ title: "Establishing TikTok as a Platform for Informal Learning: Evidence from M
 collection: talks
 type: "Conference Presentation"
 venue: "HICSS-56"
-date: 2023-01-05
+date: 2023-01-06
 location: "Maui, HI"
 ---
 
