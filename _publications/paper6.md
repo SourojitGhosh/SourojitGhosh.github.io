@@ -1,9 +1,9 @@
 ---
-title: "Reflecting on hybrid learning in studio-based courses: complications and effectiveness during the pandemic and beyond"
+title: "Establishing TikTok as a Platform for Informal Learning: Evidence from Mixed-Methods Analysis of Creators and Viewers"
 collection: publications
 permalink: /publication/paper6
-date: 2022-10-11
-venue: 'HFES'
+date: 2023-01-03
+venue: 'HICSS'
 citation: 'Ghosh, S., & Coppola, S. (2022). Reflecting on Hybrid Learning in Studio-based Courses: Complications and Effectiveness during the Pandemic and Beyond. Proceedings of the Human Factors and Ergonomics Society Annual Meeting, 66(1), 2108–2112. https://doi.org/10.1177/1071181322661116'
 ---
 [Download paper here](https://sourojitghosh.github.io/files/1071181322661116.pdf)
