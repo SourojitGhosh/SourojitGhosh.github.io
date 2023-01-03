@@ -1,8 +1,8 @@
 ---
-title: "Slanted Speculations:: Material Encounters with Algorithmic Bias"
+title: "Establishing TikTook as a Platform for Informal Learning: Evidence from Mixed Methods Analysis of Creators and Viewers"
 collection: publications
 permalink: /publication/paper6
-date: 2022-06-14
+date: 2023-01-03
 venue: 'DIS'
 citation: 'Gabrielle Benabdallah, Ashten Alexander, Sourojit Ghosh, Chariell Glogovac-Smith, Lacey Jacoby, Caitlin Lustig, Anh Nguyen, Anna Parkhurst, Kathryn Reyes, Neilly H. Tan, Edward Wolcher, Afroditi Psarra, and Daniela Rosner. 2022. Slanted Speculations: Material Encounters with Algorithmic Bias. In Designing Interactive Systems (DIS). Association for Computing Machinery, New York, NY, USA, 85–99. https://doi.org/10.1145/3532106.3533449.'
 ---
