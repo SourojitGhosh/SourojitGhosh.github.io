@@ -8,4 +8,4 @@ citation: 'Sourojit Ghosh, and Andrea Figueroa. 2023. Establishing TikTok as a P
 ---
 [Download paper here](https://sourojitghosh.github.io/files/0237.pdf)
 
-[View Presentation here](https://docs.google.com/presentation/d/1Q2NU9apoEEdybbRLFk0Vo15xIG3Q7GQ7Gnaiy6ZvBlw/edit?usp=sharing)
+[View Presentation here](https://docs.google.com/presentation/d/1sfbVaxfIBaQBFEwjm6faX-qT-mbX_S3kxE_mI79QwbI/edit?usp=sharing)
