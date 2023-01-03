@@ -3,11 +3,11 @@ title: "Establishing TikTok as a Platform for Informal Learning: Evidence from M
 collection: publications
 permalink: /publication/paper6
 date: 2023-01-02
-venue: 'DIS'
-citation: 'Gabrielle Benabdallah, Ashten Alexander, Sourojit Ghosh, Chariell Glogovac-Smith, Lacey Jacoby, Caitlin Lustig, Anh Nguyen, Anna Parkhurst, Kathryn Reyes, Neilly H. Tan, Edward Wolcher, Afroditi Psarra, and Daniela Rosner. 2022. Slanted Speculations: Material Encounters with Algorithmic Bias. In Designing Interactive Systems (DIS). Association for Computing Machinery, New York, NY, USA, 85–99. https://doi.org/10.1145/3532106.3533449.'
+venue: 'HICSS'
+citation: 'Sourojit Ghosh, and Andrea Figueroa. 2023. Establishing TikTok as a Platform for Informal Learning: Evidence from Mixed-Methods Analysis of Creators and Viewers. In Proceedings of the 56th Hawaii International Conference on System Sciences, 2431-2440. https://hdl.handle.net/10125/102931'
 ---
-[Download paper here](https://sourojitghosh.github.io/files/3532106.3533449.pdf)
+[Download paper here](https://sourojitghosh.github.io/files/0237.pdf)
 
-[View video presentation here](https://youtu.be/LjdLx6ptRU4)
+[View Presentation here](https://docs.google.com/presentation/d/1Q2NU9apoEEdybbRLFk0Vo15xIG3Q7GQ7Gnaiy6ZvBlw/edit?usp=sharing)
 
 
