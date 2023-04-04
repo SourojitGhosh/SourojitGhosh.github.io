@@ -43,3 +43,8 @@ Leadership
 * Moderator, HCDE Sustained Dialogue Program (Fall 2021 - present)
 * PhD Representative, HCDE Chair's Student Advisory Board (2020 - present)
 * Co-Champion, International HCDE Affinity Group (2020 - 2021) 
+
+Service
+======
+*  Program Committee, 6th annual ACM FAccT Conference, 2023
+*  Reviewer, ACM Designing Interactive Systems (DIS), 2023
