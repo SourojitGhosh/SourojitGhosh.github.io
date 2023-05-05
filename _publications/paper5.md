@@ -1,5 +1,5 @@
 ---
-title: "Reflecting on hybrid learning in studio-based courses: complications and effectiveness during the pandemic and beyond"
+title: "Reflecting on Hybrid Learning in Studio-based Courses: Complications and Effectiveness during the Pandemic and Beyond"
 collection: publications
 permalink: /publication/paper5
 date: 2022-10-11
