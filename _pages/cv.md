@@ -30,9 +30,11 @@ Talks
   
 Teaching
 ======
-* Teaching Assistant/Co-Instructor, HCDE 515: Inclusive and Accessible Design (Spring 2023)
+* Instructor of Record, HCDE 419: Concepts In Human-Computer Interaction (Fall 2023)
+* Teaching Assistant/Co-Instructor, HCDE 511: Information Visualization (Spring 2023)
 * Teaching Assistant/Co-Instructor, HCDE 515: Inclusive and Accessible Design (Winter 2023)
-* Teaching Assistant/Co-Instructor, HCDE 318: Introduction to User-Centered Design (Winter 2020 - Fall 2022)
+* Instructor of Record, HCDE 318: Introduction to User-Centered Design (Winter 2022 - Fall 2022)
+* Teaching Assistant/Co-Instructor, HCDE 318: Introduction to User-Centered Design (Winter 2020 - Fall 2021)
 * Teaching Assistant, HCDE 298: Introductory Special Topics (Summer 2021)
 * Teaching Assistant Coordinator, University of Minnesota Center for Writing (2018 - 2020)
 * Student Writing Consultant, University of Minnesota Center for Writing (2017 - 2020)   
