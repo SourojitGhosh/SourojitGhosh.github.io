@@ -1,10 +1,10 @@
 ---
-title: ""I love you, my dear friend": Analyzing the Role of Emotions in the Building of Friendships in Online Fanfiction Communities"
+title: "Making a Case for HyFlex Learning in Design Engineering Classes"
 collection: talks
 type: "Conference Presentation"
-venue: "HCII 2023"
-date: 2023-07-25
-location: "remote"
+venue: "ASEE 2023"
+date: 2023-06-27
+location: "Baltimore, MD"
 ---
 
-[View Presentation here](https://docs.google.com/presentation/d/1Iq1VdfTc6iywZNcRw8JzNyIl7D997r50_GWW-D-L9F4/edit?usp=sharing)
+[View Presentation here](https://docs.google.com/presentation/d/1zV_UjExN8rv3lCQYUo03wUyNwaHgJK3TfUJBit0CPJA/edit?usp=sharing)
