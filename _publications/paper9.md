@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/paper9
 date: 2023-07-23
 venue: 'HCI International'
-citation: 'Sourojit Ghosh, Niamh Froelich, and Cecilia Aragon. (2023). “I love you, my dear friend”: Analyzing the Role of Emotions in the Building of Friendships in Online Fanfiction Communities. In Proceedings of the 15th International Conference on Social Computing and Social Media in the context of the 25th International Conference on Human-Computer Interaction (HCI International 2023).'
+citation: 'Sourojit Ghosh, Niamh Froelich, and Cecilia Aragon. (2023). “I love you, my dear friend”: Analyzing the Role of Emotions in the Building of Friendships in Online Fanfiction Communities. In International Conference on Human-Computer Interaction, pp. 466-485. Cham: Springer Nature Switzerland, 2023.'
 ---
 [View paper here!](https://sourojitghosh.github.io/files/Emotions_Friendships_HCII_final.pdf)
 
