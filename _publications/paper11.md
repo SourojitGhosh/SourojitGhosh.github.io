@@ -7,3 +7,5 @@ venue: 'AIES'
 citation: 'Sourojit Ghosh, and Aylin Caliskan. (2023). ChatGPT Perpetuates Gender Bias in Machine Translation and Ignores Non-Gendered Pronouns: Findings across Bengali and Five other Low-Resource Languages. In Proceedings of the 2023 AAAI/ACM Conference on AI, Ethics, and Society.'
 ---
 [View paper here!](https://camps.aptaracorp.com/ACM_PMS/PMS/ACM/AIES23/18/3785e844-0aef-11ee-b37c-16bb50361d1f/OUT/aies23-18.html)
+
+[View in Conference proceedings](https://dl.acm.org/doi/10.1145/3600211.3604672)
