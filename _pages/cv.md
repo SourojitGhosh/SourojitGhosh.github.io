@@ -37,7 +37,16 @@ Teaching
 * Teaching Assistant/Co-Instructor, HCDE 318: Introduction to User-Centered Design (Winter 2020 - Fall 2021)
 * Teaching Assistant, HCDE 298: Introductory Special Topics (Summer 2021)
 * Teaching Assistant Coordinator, University of Minnesota Center for Writing (2018 - 2020)
-* Student Writing Consultant, University of Minnesota Center for Writing (2017 - 2020)   
+* Student Writing Consultant, University of Minnesota Center for Writing (2017 - 2020)
+
+Awards
+======
+* Student Teaching Award, College of Engineering, University of Washington (April 2023)
+
+Press
+======
+* [We tested ChatGPT in Bengali, Kurdish, and Tamil. It failed.](https://restofworld.org/2023/chatgpt-problems-global-language-testing/) (September 2023)
+
 
 Leadership
 ======
