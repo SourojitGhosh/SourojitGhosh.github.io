@@ -1,6 +1,6 @@
 ---
 title: 'Small power, Big Anxiety: Navigating Unease with Sending Rejection Emails as an Early-Career Academic'
-date: 2023-1-19
+date: 2023-09-19
 permalink: /https://sourojitg.medium.com/2f29784e63a4
 tags:
   - Personal Experience
