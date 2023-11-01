@@ -1,13 +1,16 @@
 ---
 layout: archive
 permalink: /press/
+title: "Press"
 author_profile: true
 redirect_from:
   - /press
 ---
 
-## In the Media
+## <a href = "https://ischool.uw.edu/news/2023/10/students-investigate-how-artificial-intelligence-perpetuates-biases?fbclid=IwAR2nyV0_RiuBVnutpGhnZucRD6e837bVYqHUDzKWWB4iV8KHhj6ltDHDF4A">Students Investigate How Artificial Intelligence Perpetuates Biases</a>
 
-### [https://ischool.uw.edu/news/2023/10/students-investigate-how-artificial-intelligence-perpetuates-biases?fbclid=IwAR2nyV0_RiuBVnutpGhnZucRD6e837bVYqHUDzKWWB4iV8KHhj6ltDHDF4A](Article 1)
+_Andrew Deck, Rest of World. October 30, 2023._
 
-### Article 2
+This article covers my work on language translation and ChatGPT's lack of respecting gender-neutral pronouns in language translation. 
+
+## <a href = "https://restofworld.org/2023/chatgpt-problems-global-language-testing/">We tested ChatGPT in Bengali, Kurdish, and Tamil. It failed.</a>
