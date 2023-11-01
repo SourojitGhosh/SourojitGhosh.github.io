@@ -1,9 +1,9 @@
 ---
 layout: archive
-permalink: /media/
+permalink: /press/
 author_profile: true
 redirect_from:
-  - /media
+  - /press
 ---
 
 <div align="justify"> Inspired by <a href = "http://denaeford.me/">Dr. Denae Ford Robinson</a>, I decided to add a page on how to pronounce and use my name.</div>
