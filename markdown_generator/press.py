@@ -103,7 +103,7 @@ for row, item in talks.iterrows():
     md_filename = os.path.basename(md_filename)
     #print(md)
     
-    with open("../press/" + md_filename, 'w') as f:
+    with open("../_press/" + md_filename, 'w') as f:
         f.write(md)
 
 
