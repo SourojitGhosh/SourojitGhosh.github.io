@@ -1,5 +1,5 @@
 ---
-title: "P>We tested ChatGPT in Bengali, Kurdish, and Tamil. It failed."
+title: "We tested ChatGPT in Bengali, Kurdish, and Tamil. It failed."
 collection: portfolio
 ---
 
