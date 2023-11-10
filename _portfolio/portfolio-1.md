@@ -1,5 +1,6 @@
 ---
 title: "Students Investigate How Artificial Intelligence Perpetuates Biases"
+date: "October 30, 2023"
 collection: portfolio
 ---
 _Jim Davis, University of Washington. October 30, 2023_
