@@ -9,6 +9,6 @@ citation: 'Sourojit Ghosh, and Aylin Caliskan. (2023). “Person” == Light-ski
 
 [View preprint here!](https://arxiv.org/abs/2310.19981)
 
-[View poster here!](https://sourojitghosh.github.io/files/EMNLP2023.pdf)
+[View poster here!](https://sourojitghosh.github.io/files/EMNLP%202023.pdf)
 
 Upcoming publication in December 2023, stay tuned for the full paper! 
