@@ -41,11 +41,13 @@ Teaching
 
 Awards
 ======
+* Award of Excellence, Student Teaching, Department of Human Centered Design and Engineering (October 2023)
 * Student Teaching Award, College of Engineering, University of Washington (April 2023)
 
 Press
 ======
-* [We tested ChatGPT in Bengali, Kurdish, and Tamil. It failed.](https://restofworld.org/2023/chatgpt-problems-global-language-testing/) (September 2023)
+* [Students Investigate How Artificial Intelligence Perpetuates Biases](https://ischool.uw.edu/news/2023/10/students-investigate-how-artificial-intelligence-perpetuates-biases?fbclid=IwAR2nyV0_RiuBVnutpGhnZucRD6e837bVYqHUDzKWWB4iV8KHhj6ltDHDF4A) - _Jim Davis, The Information School Newsletter, University of Washington_ (October 2023)
+* [We tested ChatGPT in Bengali, Kurdish, and Tamil. It failed.](https://restofworld.org/2023/chatgpt-problems-global-language-testing/) - _Andrew Deck, Rest of World_ (September 2023)
 
 
 Leadership
