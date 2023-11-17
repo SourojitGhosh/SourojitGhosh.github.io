@@ -44,12 +44,6 @@ Awards
 * Award of Excellence, Student Teaching, Department of Human Centered Design and Engineering (October 2023)
 * Student Teaching Award, College of Engineering, University of Washington (April 2023)
 
-Press
-=====
-<ul>{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}</ul>
-
 Leadership
 ======
 * PhD Representative, HCDE Diversity, Equity and Inclusion Committeee (2022 - present)
