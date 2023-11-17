@@ -1,5 +1,5 @@
 ---
-title: "HCDE 419"
+title: "HCDE 318"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/hcde-318
