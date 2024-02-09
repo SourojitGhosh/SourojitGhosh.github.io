@@ -1,10 +1,10 @@
 ---
-title: "Machine Learning in the Qualitative Coding Process"
-collection: talks
-type: "Guest Lecture: HCDE 412"
-venue: "Human-Centered Design and Engingeering"
-date: 2024-02-09
-location: "Seattle, WA"
+title: "“Person” == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion"
+collection: presentations
+type: "Conference Presentation"
+venue: "EMNLP"
+date: 2023-11-12
+location: "Singapore"
 ---
 
-[View Presentation here](https://docs.google.com/presentation/d/1LyAP8-9ZO5ZnNGip1cOks5_ZbEI-JHgkGgrfc9y0CZI/edit?usp=sharing)
+[View Presentation here](https://docs.google.com/presentation/d/1cnWYoytsms3FkhM-t0nn4PccY5UzZngwmE7789HIGYM/edit?usp=sharing)
