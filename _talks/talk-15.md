@@ -7,4 +7,4 @@ date: 2024-02-09
 location: "Seattle, WA"
 ---
 
-<a href="https://docs.google.com/presentation/d/1LyAP8-9ZO5ZnNGip1cOks5_ZbEI-JHgkGgrfc9y0CZI/edit?usp=sharing">View the talk here!</a>
+[View Presentation here](https://docs.google.com/presentation/d/1LyAP8-9ZO5ZnNGip1cOks5_ZbEI-JHgkGgrfc9y0CZI/edit?usp=sharing)
