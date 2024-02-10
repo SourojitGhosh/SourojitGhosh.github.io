@@ -3,7 +3,7 @@ title: "Machine Learning in Qualitative Coding"
 collection: talks
 type: "Guest Lecture"
 venue: "HCDE 312"
-date: 2023-02-07
+date: 2024-02-07
 location: "Seattle, WA"
 ---
 
