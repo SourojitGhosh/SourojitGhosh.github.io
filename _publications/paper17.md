@@ -7,4 +7,4 @@ venue: 'DRS'
 citation: 'Sourojit Ghosh, and Sarah Coppola. (2024). This Class Isn’t Designed For Me: Recognizing Ableist Trends In Design Education, And Redesigning For An Inclusive And Sustainable Future. Upcoming Publication, Design Research Society. '
 ---
 
-Upcoming Publication in June 2024, stay tuned! 
+[View preprint here](https://sourojitghosh.github.io/files/drs_2024.pdf)
