@@ -61,6 +61,9 @@
       {% if author.tumblr %}
         <li><a href="https://{{ author.tumblr }}.tumblr.com"><i class="fab fa-fw fa-tumblr-square" aria-hidden="true"></i> Tumblr</a></li>
       {% endif %}
+      {%- if author.semanticscholar -%}
+            <a href="https://www.semanticscholar.org/author/{{ author.semanticscholar }}" title="Semantic Scholar"><i class="ai ai-semantic-scholar"></i></a>
+      {% endif %}
       {% if author.bitbucket %}
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
