@@ -1,10 +1,10 @@
 ---
-title: "“Person” == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion"
+title: "“I don't see myself represented here at all” User Experiences of Stable Diffusion Outputs Containing Representational Harms across Gender Identities and Nationalities"
 collection: publications
 permalink: /publication/paper24
-date: 2023-12-06
-venue: 'EMNLP'
-citation: 'Sourojit Ghosh, and Aylin Caliskan. (2023). “Person” == Light-skinned, Western Man, and Sexualization of Women of Color: Stereotypes in Stable Diffusion. In Findings of the Association for Computational Linguistics: EMNLP 2023, pages 6971–6985, Singapore. Association for Computational Linguistics.'
+date: 2024-24-07
+venue: 'AIES'
+citation: 'Sourojit Ghosh, Nina Lutz, and Aylin Caliskan. (2024). “I don't see myself represented here at all” User Experiences of Stable Diffusion Outputs Containing Representational Harms across Gender Identities and Nationalities. Upcoming Publication, AIES 2024.' 
 ---
 
 Stay tuned for conference proceedings!
