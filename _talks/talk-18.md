@@ -3,7 +3,7 @@ title: "This Class isn’t Designed for Me: Recognizing Ableist trends in Design
 collection: presentations
 type: "Conference Presentation"
 venue: "DRS"
-date: 2024-24-07
+date: 2024-07-24
 location: "Boston, MA"
 ---
 
