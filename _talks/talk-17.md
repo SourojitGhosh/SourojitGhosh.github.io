@@ -3,7 +3,7 @@ title: "ChatGPT as a Tool for Equitable Education in Engineering Classes"
 collection: presentations
 type: "Conference Presentation"
 venue: "ASEE"
-date: 2024-24-07
+date: 2024-07-24
 location: "Portland, OR"
 ---
 
