@@ -1,5 +1,5 @@
 ---
-title: "``I don't see myself represented here at all": User Experiences of Stable Diffusion Outputs Containing Representational Harms across Gender Identities and Nationalities"
+title: "“I don't see myself represented here at all": User Experiences of Stable Diffusion Outputs Containing Representational Harms across Gender Identities and Nationalities"
 collection: publications
 permalink: /publication/paper24
 date: 2024-07-23
