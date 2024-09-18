@@ -7,4 +7,4 @@ venue: 'AIES'
 citation: 'Sourojit Ghosh. (2024). Interpretations, Representations, and Stereotypes of Caste within Text-to-Image Generators. Upcoming Publication, AIES 2024.'
 ---
 
-Stay tuned for conference proceedings! 
+[View preprint](https://arxiv.org/abs/2408.01590)
