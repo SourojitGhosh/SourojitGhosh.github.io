@@ -9,4 +9,4 @@ citation: 'Sourojit Ghosh, and Srishti Chatterjee. (2024). Misgendering and Assu
 
 [View preprint](https://arxiv.org/abs/2401.13165)
 
-[Pre-order book](https://www.routledge.com/Gendered-Technology-in-Translation-and-Interpreting-Centering-Rights-in/Monzo-Nebot-Tasa-Fuster/p/book/9781032736969)
+[Order book](https://www.routledge.com/Gendered-Technology-in-Translation-and-Interpreting-Centering-Rights-in/Monzo-Nebot-Tasa-Fuster/p/book/9781032736969)
