@@ -8,3 +8,5 @@ citation: 'Sourojit Ghosh, and Srishti Chatterjee. (2024). Machine Translation, 
 ---
 
 [View chapter here!](https://www.researchgate.net/publication/386360939_Machine_Translation_Large_Language_Models_and_Generative_AI_in_the_University_Classroom) 
+
+[Purchase book here!](https://www.routledge.com/The-Social-Impact-of-Automating-Translation-An-Ethics-of-Care-Perspective-on-Machine-Translation/Monzo-Nebot-Tasa-Fuster/p/book/9781032736990)
