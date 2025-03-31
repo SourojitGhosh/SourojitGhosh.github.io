@@ -10,9 +10,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Human-Centered Design and Engineering, University of Washington, Seattle, 2025 (expected)
-* M.S. in Human-Centered Design and Engineering, University of Washington, Seattle, 2022
-* B.S. in Computer Science with a Minor in Creative Writing, University of Minnesota, Twin Cities, 2020
+* Ph.D in Human-Centered Design and Engineering, University of Washington, Seattle (in-progress)
+* M.S. in Human-Centered Design and Engineering, University of Washington, Seattle
+* B.S. in Computer Science with a Minor in Creative Writing, University of Minnesota, Twin Cities.
   
 
 Publications
@@ -30,7 +30,8 @@ Talks
   
 Teaching
 ======
-* Instructor of Record, HCDE 419: Concepts In Human-Computer Interaction (Fall 2023)
+* Instructor of Record, HCDE 498: Generative Artificial Intelligence tools and Large Language Models in the User-Centered Design process: Opportunities and Ethical Considerations (Spring 2024 - Winter 2025)
+* Instructor of Record, HCDE 419: Concepts In Human-Computer Interaction (Fall 2023 - Winter 2023)
 * Teaching Assistant/Co-Instructor, HCDE 511: Information Visualization (Spring 2023)
 * Teaching Assistant/Co-Instructor, HCDE 515: Inclusive and Accessible Design (Winter 2023)
 * Instructor of Record, HCDE 318: Introduction to User-Centered Design (Winter 2022 - Fall 2022)
@@ -41,6 +42,9 @@ Teaching
 
 Awards
 ======
+* University of Washington Excellence in Teaching Award (June 2025)
+* University of Washington Annual Graduate School Presidential Dissertation Fellowship in the Arts, Humanities, Social Sciences, and Social Professions (January 2025)
+* University of Washington Husky100, Class of 2024
 * Award of Excellence, Student Teaching, Department of Human Centered Design and Engineering (October 2023)
 * Student Teaching Award, College of Engineering, University of Washington (April 2023)
 
@@ -51,8 +55,3 @@ Leadership
 * Moderator, HCDE Sustained Dialogue Program (Fall 2021 - present)
 * PhD Representative, HCDE Chair's Student Advisory Board (2020 - present)
 * Co-Champion, International HCDE Affinity Group (2020 - 2021) 
-
-Service
-======
-*  Program Committee, 6th annual ACM FAccT Conference, 2023
-*  Reviewer, ACM Designing Interactive Systems (DIS), 2023
