@@ -30,7 +30,8 @@ Talks
   
 Teaching
 ======
-* Instructor of Record, HCDE 498: Generative Artificial Intelligence tools and Large Language Models in the User-Centered Design process: Opportunities and Ethical Considerations (Spring 2024 - Winter 2025)
+* Instructor of Record, HCDE 313: Introduction to User Research (Spring 2025)
+* Instructor of Record, HCDE 498/598: Generative Artificial Intelligence tools and Large Language Models in the User-Centered Design process: Opportunities and Ethical Considerations (Spring 2024 - Winter 2025)
 * Instructor of Record, HCDE 419: Concepts In Human-Computer Interaction (Fall 2023 - Winter 2023)
 * Teaching Assistant/Co-Instructor, HCDE 511: Information Visualization (Spring 2023)
 * Teaching Assistant/Co-Instructor, HCDE 515: Inclusive and Accessible Design (Winter 2023)
