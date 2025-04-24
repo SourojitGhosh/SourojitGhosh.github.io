@@ -1,5 +1,5 @@
 ---
-title: "Empowering Engineering Graduates to Contribute towards \newline  Designing Safer Generative AI Tools through an Ethics Course"
+title: "Empowering Engineering Graduates to Contribute towards Designing Safer Generative AI Tools through an Ethics Course"
 collection: publications
 permalink: /publication/paper28
 date: 2025-04-23
