@@ -1,5 +1,5 @@
 ---
-title: "“They've Over-Emphasized That One Search”: Controlling Unwanted Content on TikTok's For You Page"
+title: "“I don't see myself represented here at all”: User Experiences of Stable Diffusion Outputs Containing Representational Harms across Gender Identities and Nationalities"
 collection: publications
 permalink: /publication/paper26
 date: 2025-04-22
