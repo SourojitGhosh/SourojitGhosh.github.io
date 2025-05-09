@@ -2,7 +2,13 @@
    jQuery plugin settings and other scripts
    ========================================================================== */
 
+
 $(document).ready(function(){
+   // detect OS/browser preference
+  const browserPref = window.matchMedia('(prefers-color-scheme: dark)').matches
+    ? 'dark'
+    : 'light';
+   
    // Sticky footer
   var bumpIt = function() {
       $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
