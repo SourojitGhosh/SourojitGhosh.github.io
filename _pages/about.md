@@ -13,7 +13,7 @@ redirect_from:
 
 <h2>Announcements</h2>
 🥇🏆<em>Apr 2025</em>: I received the <a href = "https://www.hcde.washington.edu/news/article/2025-04-14/hcde-phd-candidate-sourojit-ghosh-receives-uw-excellence-teaching-award">2025 University of Washington Award of Excellence in Teaching</a> <br>
-✍️📃<em>Oct 2024</em>: I published and presented three first-authored papers at the 2025 conference on AI, Ethics & Society <br>
+✍️📃<em>Oct 2024</em>: I published and presented three first-authored papers at the 2025 conference on AI, Ethics & Society, <a href = "https://ojs.aaai.org/index.php/AIES/article/view/31652">including one of the first-ever explorations of casteism within AI systems</a> <br>
 🥇🏆<em>Jun 2024</em>: I received the <a href = "https://www.hcde.washington.edu/news/article/2024-06-17/phd-candidate-sourojit-ghosh-receives-presidential-dissertation-fellowship">2024 University of Washington Presidential Dissertation Fellowship</a> <br>
 📹🎤<em>Jun 2024</em>: I co-led a session on <a href = "https://www.hcde.washington.edu/news/article/2024-06-13/recording-inclusive-pedagogy-workshop-sarah-coppola-and-sourojit-ghosh"> Inclusive Pedagogy in Design Engineering Classes</a> <br>
 📹🎤<em>Apr 2024</em>: I appeared on a panel on AI safety for children on the national TV show <a href = "https://youtu.be/_Yk2bRvzfI8?si=5YBsxrNkoTmJh3WC"> Good Morning America</a> <br>
