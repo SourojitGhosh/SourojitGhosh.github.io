@@ -2,7 +2,7 @@
 title: "Do Generative AI Models Output Harm While Representing Non-western Cultures: Evidence from a Community-Centered Approach"
 collection: talks
 type: "Poster Presentation"
-venue: "AIES 2024"
+venue: "AIES"
 date: 2024-08-21
 location: "San Jose, CA"
 ---
