@@ -2,7 +2,7 @@
 title: "“I don't see myself represented here at all”: User Experiences of Stable Diffusion Outputs Containing Representational Harms across Gender Identities and Nationalities"
 collection: talks
 type: "Poster Presentation"
-venue: "AIES 2024"
+venue: "AIES"
 date: 2024-08-21
 location: "San Jose, CA"
 ---
