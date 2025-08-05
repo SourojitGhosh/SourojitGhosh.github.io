@@ -3,7 +3,7 @@ title: "Empowering Engineering Graduates to Contribute towards Designing Safer G
 collection: talks
 type: "Conference Presentation"
 venue: "ASEE"
-date: 2024-06-22
+date: 2025-06-22
 location: "Toronto"
 ---
 
