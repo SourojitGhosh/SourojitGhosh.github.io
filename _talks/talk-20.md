@@ -2,7 +2,7 @@
 title: "Interpretations, Representations, and Stereotypes of Caste within Text-to-Image Generators"
 collection: talks
 type: "Poster Presentation"
-venue: "AIES 2024"
+venue: "AIES"
 date: 2024-08-21
 location: "San Jose, CA"
 ---
