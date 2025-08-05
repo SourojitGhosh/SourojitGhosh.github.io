@@ -4,7 +4,7 @@ collection: talks
 type: "Poster Presentation"
 venue: "AIES 2024"
 date: 2024-08-21
-location: "San Jose"
+location: "San Jose, CA"
 ---
 
 [View Poster here](https://www.canva.com/design/DAGTemJRukY/VXuj9XyQuvhfUoPkxdTZGg/view?utm_content=DAGTemJRukY&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hec2353b8fb)
