@@ -7,4 +7,4 @@ venue: 'ASEE'
 citation: 'Sourojit Ghosh, and Sarah Coppola. (2025). Empowering Engineering Graduates to Contribute towards Designing Safer Generative AI Tools through an Ethics Course. Upcoming Publication, 2025 ASEE Annual Conference & Exposition.'
 ---
 
-Upcoming Publication, stay tuned for conference proceedings!
+[View in conference proceedings!](https://peer.asee.org/empowering-engineering-graduates-to-contribute-towards-designing-safer-generative-ai-tools-through-an-ethics-course)
