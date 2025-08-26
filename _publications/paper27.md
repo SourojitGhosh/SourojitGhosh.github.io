@@ -7,4 +7,4 @@ venue: 'ASEE'
 citation: 'Sourojit Ghosh, Arpita Bhattacharya, and Sarah Coppola. (2025). Integrating Theory and Practice for a More Student-Centered Design of a Design Foundations Course. Upcoming Publication, 2025 ASEE Annual Conference & Exposition.'
 ---
 
-Upcoming Publication, stay tuned for conference proceedings!
+[View in conference proceedings!](https://peer.asee.org/integrating-theory-and-practice-into-a-design-foundations-course)
