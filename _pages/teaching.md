@@ -5,11 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Some header text 3
+My pedagogy integrates critical human-centered practice into varied STEM or STEM-adjacent courses such as AI, Responsible AI, User-Centered Design, Data Visualization, Experimental Research and Statistics, and Accessibility. Some salient examples can be seen below. 
 
 {% include base_path %}
-
-Some header text 4
 
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
