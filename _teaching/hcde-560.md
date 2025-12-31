@@ -1,5 +1,5 @@
 ---
-title: "HCDE 560: Special Topics [Human-Centeredness in Generative AI: Opportunities and Challenges within the Design Process]"
+title: "HCDE 560: Foundations of Human Centered Artificial Intelligence"
 collection: teaching
 type: "Graduate Course"
 venue: "HCDE"
