@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Course"
 venue: "HCDE"
 permalink: /teaching/hcde-318
-date: 2021-09-20
+date: 2022-09-20
 excerpt: "This course explored the fundamentals of thinking like a user-centered designer, as students obtained hands-on experience in user research, ideation, prototyping, and evaluation of their own designed objects."
 ---
 
