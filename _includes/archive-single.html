@@ -39,7 +39,6 @@
     {% endif %}
 
         {% if post.collection == 'teaching' %}
-          <p> {{ post.type }} </p>
           {% if post.excerpt %}
             <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}</p>
           {% else %}
