@@ -1,19 +1,13 @@
 ---
-title: "HCDE 511"
+title: "HCDE 511: Information Visualization"
 collection: teaching
 type: "Graduate course"
 permalink: /teaching/hcde-511
-venue: "Information Visualization"
+venue: "HCDE"
 date: 2023-04-05
+excerpt: "This course covered the key design principles and techniques used in visualizing, exploring, and analyzing very large data sets, together with the perceptual principles that support them."
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This course covered the key design principles and techniques used in visualizing, exploring, and analyzing very large data sets, together with the perceptual principles that support them. Through concrete experience with real data and tools as well as a broad overview of the rich world of data visualization, students gained insights into both how to design and how to explore, analyze, implement, and evaluate different types of data visualizations. 
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+By the end of the course, students worked in teams to develop interactive visualizations through a human-centered approach, combining fundamental data visualization techniques with diverse user needs. 
