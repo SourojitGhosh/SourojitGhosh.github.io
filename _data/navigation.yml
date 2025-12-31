@@ -11,17 +11,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Teaching"
+    url: /teaching/ 
+
   - title: "Talks"
     url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/    
-    
+   
   - title: "Press"
     url: /press/
-    
-   # - title: "Press"
-   #  url: /press/
         
   - title: "Blog Posts"
     url: /year-archive/
