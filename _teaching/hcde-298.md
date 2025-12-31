@@ -1,8 +1,8 @@
 ---
 title: "HCDE 298: Introductory Special Topics [Inclusive Design]"
 collection: teaching
-venue: "HCDE"
 type: "Undergraduate Course"
+venue: "HCDE"
 permalink: /teaching/hcde-298
 date: 2021-06-20
 ---
