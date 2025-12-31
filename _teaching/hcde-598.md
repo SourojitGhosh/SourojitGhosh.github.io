@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Course"
 venue: "HCDE"
 permalink: /teaching/hcde-598
-date: 2024-09-20
+date: 2024-05-20
 excerpt: "This course explored the usage of Generative Artificial Intelligence tools and Large Language Models in the User-Centered Design process, considering the various advantages and limitations they bring to the table."
 ---
 This course explored the usage of Generative Artificial Intelligence tools and Large Language Models in the User-Centered Design process, considering the various advantages and limitations they bring to the table. Students engaged in deep reading of cutting-edge literature and acquired hands-on experience using various AI tools within the designed process in a sandboxed environment, cultivating their own designer philosophies with respect to AI usage.
