@@ -13,7 +13,7 @@ redirect_from:
   I completed my undergraduate education at the University of Minnesota, Twin Cities, receiving a Bachelor's in Computer Science with a minor in Creative Writing, and completed a Master's in Human Centered Design and Engineering. Outside of my academic interests, I am an aspiring writer and hope to someday have my own publication of fictional short stories! </div>
 
 <h2>Announcements</h2>
-🥇🏆<em>Dec 2025</em>: I received the Graduate Student Equity & Excellence Dissertation Award</a> <br>
+🥇🏆<em>Dec 2025</em>: I received the Graduate Student Equity & Excellence Dissertation Award <br>
 ✍️📃<em>Oct 2025</em>: I will publish three first-authored papers at the 2025 conference on AI, Ethics & Society! <br>
 🥇🏆<em>Apr 2025</em>: I received the <a href = "https://www.hcde.washington.edu/news/article/2025-04-14/hcde-phd-candidate-sourojit-ghosh-receives-uw-excellence-teaching-award">2025 University of Washington Award of Excellence in Teaching</a> <br>
 ✍️📃<em>Oct 2024</em>: I published and presented three first-authored papers at the 2024 conference on AI, Ethics & Society, <a href = "https://ojs.aaai.org/index.php/AIES/article/view/31652">including one of the first-ever explorations of casteism within AI systems</a> <br>
