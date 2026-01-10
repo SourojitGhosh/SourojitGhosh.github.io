@@ -3,7 +3,7 @@ title: "HCDE 560: Foundations of Human Centered Artificial Intelligence"
 collection: teaching
 type: "Graduate Course"
 venue: "HCDE"
-permalink: /teaching/hcde-598
+permalink: /teaching/hcde-560
 date: 2026-01-05
 excerpt: "This course explored rapid developments in the field of Generative AI, providing technical and non-technical explanations of key concepts for interdisciplinary students to build practical understanding."
 ---
