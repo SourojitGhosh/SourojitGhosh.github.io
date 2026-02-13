@@ -11,7 +11,6 @@ redirect_from:
 Education
 ======
 * Ph.D in Human-Centered Design and Engineering, University of Washington, Seattle 
-* M.S. in Human-Centered Design and Engineering, University of Washington, Seattle
 * B.S. in Computer Science with a Minor in Creative Writing, University of Minnesota, Twin Cities.
   
 
