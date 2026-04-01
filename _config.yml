@@ -13,7 +13,7 @@ repository               : "SourojitGhosh/SourojitGhosh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "headshot.png"
+  avatar           : "new_headshot.jpg"
   name             : "Sourojit Ghosh"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate, Human-Centered Design and Engineering, University of Washington, Seattle"
@@ -67,7 +67,7 @@ author:
   youtube          : # Username
   zhihu            : # Username
 
-# Publication Category - The following the list of publication categories and their headings
+# Publication Category - The following is the list of publication categories and their headings
 publication_category:
   books:
     title: 'Books'
@@ -76,7 +76,6 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-# Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
