@@ -4,7 +4,7 @@ collection: talks
 type: "Conference Presentation"
 venue: "ASEE"
 date: 2025-06-22
-location: "Toronto"
+location: "Toronto, Canada"
 ---
 
 [View Presentation here](https://drive.google.com/file/d/1qvejlFPUlm4xwMPISgS3Z8U7fLvGiKPO/view?usp=sharing)
