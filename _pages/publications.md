@@ -32,6 +32,14 @@ author_profile: true
     }
   };
 
+  window.clearSearch = function() {
+    const input = document.getElementById('pubSearch');
+    if (input) {
+      input.value = "";
+      window.filterPubs();
+    }
+  };
+
   document.addEventListener('keydown', function(e) {
     if (e.target && e.target.id === 'pubSearch' && e.key === 'Enter') {
       e.preventDefault();
@@ -44,13 +52,18 @@ Note: This page might be out of date. For a more updated list of publications, v
 
 {% include base_path %}
 
-<div style="display: flex; gap: 10px; margin: 20px 0; max-width: 100%;">
+<div style="display: flex; gap: 8px; margin: 20px 0; max-width: 100%; align-items: stretch;">
   <input type="text" id="pubSearch" placeholder="Search title, year, or venue..." 
-         style="flex-grow: 1; padding: 10px; border: 2px solid #444 !important; border-radius: 4px; font-size: 1rem; background-color: #fff !important; color: #00 !important;">
+         style="flex-grow: 1; min-width: 0; padding: 10px !important; border: 2px solid #000000 !important; border-radius: 4px !important; font-size: 16px !important; background-color: #ffffff !important; color: #000000 !important;">
   
   <button onclick="window.filterPubs()" 
-          style="padding: 10px 20px; background-color: #007fae; color: #fff !important; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">
+          style="padding: 10px 15px !important; background-color: #007fae !important; color: #ffffff !important; border: none !important; border-radius: 4px !important; cursor: pointer !important; font-weight: bold !important; white-space: nowrap;">
     Search
+  </button>
+
+  <button onclick="window.clearSearch()" 
+          style="padding: 10px 15px !important; background-color: #e0e0e0 !important; color: #333333 !important; border: 1px solid #cccccc !important; border-radius: 4px !important; cursor: pointer !important; white-space: nowrap;">
+    Clear
   </button>
 </div>
 
