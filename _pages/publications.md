@@ -9,13 +9,18 @@ Note: This page might be out of date. For a more updated list of publications, v
 
 {% include base_path %}
 
-<div style="display: flex; gap: 10px; margin: 20px 0; max-width: 100%;">
-  <input type="text" id="pubSearch" placeholder="Search by title, keyword, venue, or year..." 
-         style="flex-grow: 1; padding: 12px; border: 1px solid #ddd; border-radius: 4px; font-size: 1rem;">
+<div style="display: flex; gap: 10px; margin: 20px 0; max-width: 100%; flex-wrap: wrap;">
+  <input type="text" id="pubSearch" placeholder="Search title, year, or venue (e.g. CSCW, AIES)..." 
+         style="flex-grow: 2; min-width: 250px; padding: 12px; border: 2px solid #444 !important; border-radius: 4px; font-size: 1rem; background-color: #ffffff !important; color: #000000 !important; display: block !important;">
   
   <button onclick="filterPubs()" 
-          style="padding: 10px 20px; background-color: #007fae; color: white; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">
+          style="flex-grow: 0.5; padding: 10px 20px; background-color: #007fae; color: #ffffff !important; border: none; border-radius: 4px; cursor: pointer; font-weight: bold;">
     Search
+  </button>
+
+  <button onclick="clearSearch()" 
+          style="flex-grow: 0.1; padding: 10px 15px; background-color: #eeeeee; color: #333333 !important; border: 1px solid #cccccc; border-radius: 4px; cursor: pointer;">
+    Clear
   </button>
 </div>
 
@@ -25,37 +30,53 @@ Note: This page might be out of date. For a more updated list of publications, v
 
 <div id="pubList">
   {% for post in site.publications reversed %}
-    {% include archive-single.html %}
+    <div class="pub-wrapper" data-venue="{{ post.venue | downcase }}">
+      {% include archive-single.html %}
+    </div>
   {% endfor %}
 </div>
 
 <script>
 function filterPubs() {
-  var input = document.getElementById('pubSearch');
-  var filter = input.value.toLowerCase().trim();
+  const input = document.getElementById('pubSearch');
+  const filter = input.value.toLowerCase().trim();
   
-  var items = document.querySelectorAll('.archive__item');
-  var noResults = document.getElementById('noResults');
-  var visibleCount = 0;
+  // Select our wrappers
+  const items = document.querySelectorAll('.pub-wrapper');
+  const noResults = document.getElementById('noResults');
+  let visibleCount = 0;
 
-  for (var i = 0; i < items.length; i++) {
-    // textContent grabs the text regardless of the extension's spans
-    var text = items[i].textContent || items[i].innerText;
+  items.forEach(item => {
+    // Get all text content and the specific venue data attribute
+    const text = (item.textContent || "").toLowerCase();
+    const venue = (item.getAttribute('data-venue') || "").toLowerCase();
     
-    if (text.toLowerCase().indexOf(filter) > -1) {
-      items[i].style.display = "block";
+    // Check if search term matches title/body OR the venue metadata
+    if (text.includes(filter) || venue.includes(filter)) {
+      item.style.setProperty('display', 'block', 'important');
       visibleCount++;
     } else {
-      items[i].style.display = "none";
+      item.style.setProperty('display', 'none', 'important');
     }
-  }
+  });
 
-  noResults.style.display = (visibleCount === 0 && filter !== "") ? "block" : "none";
+  // Handle No Results message
+  if (visibleCount === 0 && filter !== "") {
+    noResults.style.setProperty('display', 'block', 'important');
+  } else {
+    noResults.style.setProperty('display', 'none', 'important');
+  }
 }
 
-document.getElementById('pubSearch').addEventListener("keypress", function(event) {
-  if (event.key === "Enter") {
-    event.preventDefault();
+function clearSearch() {
+  document.getElementById('pubSearch').value = "";
+  filterPubs();
+}
+
+// Ensure Enter key triggers search
+document.getElementById('pubSearch').addEventListener("keydown", function(e) {
+  if (e.key === "Enter") {
+    e.preventDefault();
     filterPubs();
   }
 });
