@@ -52,17 +52,18 @@ Note: This page might be out of date. For a more updated list of publications, v
 
 {% include base_path %}
 
-<div style="display: flex; gap: 8px; margin: 20px 0; max-width: 100%; align-items: stretch;">
+<div style="display: flex; gap: 8px; margin: 20px 0; max-width: 100%; align-items: center; justify-content: flex-start;">
+  
   <input type="text" id="pubSearch" placeholder="Search title, year, or venue..." 
-         style="flex-grow: 1; min-width: 0; padding: 10px !important; border: 2px solid #000000 !important; border-radius: 4px !important; font-size: 16px !important; background-color: #ffffff !important; color: #000000 !important;">
+         style="flex-grow: 1; min-width: 0; height: 42px !important; padding: 0 12px !important; border: 2px solid #000000 !important; border-radius: 4px !important; font-size: 16px !important; background-color: #ffffff            !important; color: #000000 !important; box-sizing: border-box !important;">
   
   <button onclick="window.filterPubs()" 
-          style="padding: 10px 15px !important; background-color: #007fae !important; color: #ffffff !important; border: none !important; border-radius: 4px !important; cursor: pointer !important; font-weight: bold !important; white-space: nowrap;">
+          style="height: 42px !important; padding: 0 20px !important; background-color: #007fae !important; color: #ffffff !important; border: none !important; border-radius: 4px !important; cursor: pointer !important;              font-weight: bold !important; white-space: nowrap !important; display: flex; align-items: center; justify-content: center; box-sizing: border-box !important;">
     Search
   </button>
 
   <button onclick="window.clearSearch()" 
-          style="padding: 10px 15px !important; background-color: #e0e0e0 !important; color: #333333 !important; border: 1px solid #cccccc !important; border-radius: 4px !important; cursor: pointer !important; white-space: nowrap;">
+          style="height: 42px !important; padding: 0 15px !important; background-color: #e0e0e0 !important; color: #333333 !important; border: 1px solid #cccccc !important; border-radius: 4px !important; cursor: pointer             !important; white-space: nowrap !important; display: flex; align-items: center; justify-content: center; box-sizing: border-box !important;">
     Clear
   </button>
 </div>
