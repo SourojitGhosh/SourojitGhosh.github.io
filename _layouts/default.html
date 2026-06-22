@@ -27,5 +27,15 @@ layout: compress
 
     {% include scripts.html %}
 
+    <script>
+      document.addEventListener("DOMContentLoaded", function() {
+        var cvLinks = document.querySelectorAll('a[href*="Ghosh_Sourojit_CV.pdf"]');
+        cvLinks.forEach(function(link) {
+          link.setAttribute('target', '_blank');
+          link.setAttribute('rel', 'noopener noreferrer');
+        });
+      });
+    </script>
+
   </body>
 </html>
