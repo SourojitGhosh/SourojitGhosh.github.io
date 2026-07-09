@@ -12,11 +12,11 @@ author:
   avatar           : "headshot.png"
   name             : "Sourojit Ghosh"
   pronouns         :   
-  bio              : "PhD Candidate, Human-Centered Design and Engineering, University of Washington, Seattle"
-  location         : "Seattle, WA"
-  employer         : "University of Washington, Seattle"
+  bio              : "Assistant Professor, Data and Information Sciences"
+  location         : "Chapel Hill, NC"
+  employer         : "University of North Carolina at Chapel Hill"
   uri              : # URL
-  email            : "ghosh100@uw.edu" 
+  email            : "ghosh100@unc.edu" 
   pronunciation_audio: "/assets/name_pronounciation.mp3"
 
   academia         : 
