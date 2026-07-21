@@ -13,8 +13,9 @@ author:
   name             : "Sourojit Ghosh"
   pronouns         :   
   bio              : "Assistant Professor, Data and Information Sciences"
-  location         : "Chapel Hill, NC"
-  employer         : "University of North Carolina at Chapel Hill"
+  #location         : "Chapel Hill, NC"
+  employer: |
+  "University of North Carolina<br>at Chapel Hill"
   uri              : # URL
   email            : "ghosh100@unc.edu" 
   pronunciation_audio: "/assets/name_pronounciation.mp3"
