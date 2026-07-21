@@ -12,8 +12,8 @@ author:
   avatar           : "headshot.png"
   name             : "Sourojit Ghosh"
   pronouns         :   
-  bio              : "Assistant Professor, Data and Information Sciences"
-  #location         : "Chapel Hill, NC"
+  bio              : "Assistant Professor, School of Data and Information Sciences"
+  location         : #"Chapel Hill, NC"
   employer: |
   "University of North Carolina<br>at Chapel Hill"
   uri              : # URL
