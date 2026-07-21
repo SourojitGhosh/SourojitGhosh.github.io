@@ -23,8 +23,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
 
-  - title: "Contact"
-    url: /contact/
+  # - title: "Contact"
+  #   url: /contact/
     
   - title: "CV"
     url: /Faculty-CV/Ghosh_Sourojit_CV.pdf
