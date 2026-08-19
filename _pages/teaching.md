@@ -9,6 +9,8 @@ My teaching integrates critical human-centered practice into varied courses such
 
 {% include base_path %}
 
+# University of Washington, Seattle
+
 {% for post in site.teaching reversed %}
   {% include archive-single.html %}
 {% endfor %}
